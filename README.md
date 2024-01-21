@@ -6,6 +6,11 @@ shaping my future in the tech world.
 
 - For assignment 2:
 
+We learned how we gonna shape the future job market 
+and also What are the skills we need to possess to be competent to compete in this field and how we can use AI 
+for our own benefit , the possibilities that were shown to us on the industrial visit and the use and help that Github makes 
+for us Software Engineers .
+
 - For assignment 3:
 
 In light of credence's work culture,
